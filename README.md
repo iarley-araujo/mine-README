@@ -1,6 +1,6 @@
 <img src="imagem2.jpeg" width="100%" alt="Top Banner">
 
-<h1 align="center">Namaste 🙏 Eu sou Iarley Carvalho Araujo</h1>
+<h1 align="center">Eu sou Iarley Carvalho Araujo</h1>
 
 <p align="center">
 Estudante de Engenharia da Computação na Fundação Santo André (FSA) e Técnico em Desenvolvimento de Sistemas pela ETEC. Minha jornada de aprendizado acadêmico e pessoal é focada em <b>Segurança da Informação</b>, com o objetivo de me especializar em <b>Cyber Security</b> a longo prazo. Também atuo ativamente no desenvolvimento web, construindo desde dashboards financeiros até plataformas educacionais.
