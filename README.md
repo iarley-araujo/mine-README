@@ -54,15 +54,22 @@
 
 <h3 align="center">🚀 Repositórios em Destaque</h3>
 
-<div align="center">
-  <a href="https://github.com/iarley-araujo/gate-of-babylon">
-    <img src="gate-of-babylon.png" />
-  </a>
-  
-  <a href="https://github.com/iarley-araujo/portf-lio">
-    <img src="portifoli.png" />
-  </a>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🛡️_Gate_of_Babylon-8A2BE2?style=for-the-badge" alt="Título Gate of Babylon" /><br><br>
+      <a href="https://github.com/iarley-araujo/gate-of-babylon">
+        <img src="gate-of-babylon.png" width="95%" alt="Gate of Babylon Repo" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/💻_Meu_Portfólio-0077B5?style=for-the-badge" alt="Título Portfólio" /><br><br>
+      <a href="https://github.com/iarley-araujo/portf-lio">
+        <img src="portifoli.png" width="95%" alt="Portfólio Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
