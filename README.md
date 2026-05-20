@@ -5,11 +5,11 @@
 <h1 align="center">Olá, eu sou Iarley Carvalho Araujo! 👋</h1>
 
 <p align="center">
-  <b>Engenharia da Computação | Cyber Security Enthusiast | Software Developer</b>
+  <b>Red team | Cyber Security Enthusiast | Software Developer</b>
 </p>
 
 <p align="center">
-  Estudante de Engenharia da Computação na Fundação Santo André (FSA) e Técnico em Desenvolvimento de Sistemas pela ETEC. 
+  Estudante de Defesa cibernetica (impacta) e Técnico em Desenvolvimento de Sistemas pela ETEC. 
   Minha trajetória é movida pela curiosidade técnica e pelo desejo de proteger ambientes digitais. Atualmente, foco na intersecção entre <b>desenvolvimento full-stack</b> e <b>segurança da informação</b>.
 </p>
 
@@ -60,7 +60,7 @@
   </a>
   
   <a href="https://github.com/iarley-araujo/portf-lio">
-    <img src="portifolio.png" />
+    <img src="portifoli.png" />
   </a>
 </div>
 
