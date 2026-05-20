@@ -40,26 +40,22 @@
 
 <h3 align="center">📊 Nível de Habilidades</h3>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /></td>
-      <td width="200"><progress value="70" max="100"></progress></td>
-      <td align="right"><b>70%</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
-      <td><progress value="70" max="100"></progress></td>
-      <td align="right"><b>70%</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></td>
-      <td><progress value="40" max="100"></progress></td>
-      <td align="right"><b>40%</b></td>
-    </tr>
-  </table>
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/-70%25-777BB4?style=flat"><br>
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-70%25-F7DF1E?style=flat"><br>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-40%25-3776AB?style=flat"><br>
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-50%25-ED8B00?style=flat"><br>
+  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-60%25-4479A1?style=flat">
+</p>
 ---
 
 <h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
