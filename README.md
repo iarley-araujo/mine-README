@@ -60,7 +60,7 @@
   </a>
   
   <a href="https://github.com/iarley-araujo/portf-lio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarley-araujo&repo=portf-lio&theme=tokyonight&hide_border=true&show_icons=true" />
+    <img src="portifolio.png" />
   </a>
 </div>
 
