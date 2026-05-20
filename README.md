@@ -56,7 +56,7 @@
 
 <div align="center">
   <a href="https://github.com/iarley-araujo/gate-of-babylon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarley-araujo&repo=gate-of-babylon&theme=tokyonight&hide_border=true&show_icons=true" />
+    <img src="gate-of-babylon.png" />
   </a>
   
   <a href="https://github.com/iarley-araujo/portf-lio">
