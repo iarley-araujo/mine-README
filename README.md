@@ -40,15 +40,45 @@
 
 <h3 align="center">📊 Nível de Habilidades</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/-70%25-777BB4?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/-70%25-F7DF1E?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-60%25-4479A1?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-50%25-ED8B00?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-25%25-3776AB?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/-15%25-239120?style=for-the-badge" /><br>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/-15%25-0175C2?style=for-the-badge" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="right" width="150"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></td>
+      <td width="200" align="left"><img src="https://dummyimage.com/140x12/00ff44/00ff44.png" /><img src="https://dummyimage.com/60x12/222222/222222.png" /></td>
+      <td width="50" align="center"><b>70%</b></td>
+    </tr>
+    <tr>
+      <td align="right"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></td>
+      <td align="left"><img src="https://dummyimage.com/140x12/00ff44/00ff44.png" /><img src="https://dummyimage.com/60x12/222222/222222.png" /></td>
+      <td align="center"><b>70%</b></td>
+    </tr>
+    <tr>
+      <td align="right"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></td>
+      <td align="left"><img src="https://dummyimage.com/120x12/00ff44/00ff44.png" /><img src="https://dummyimage.com/80x12/222222/222222.png" /></td>
+      <td align="center"><b>60%</b></td>
+    </tr>
+    <tr>
+      <td align="right"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></td>
+      <td align="left"><img src="https://dummyimage.com/100x12/00ff44/00ff44.png" /><img src="https://dummyimage.com/100x12/222222/222222.png" /></td>
+      <td align="center"><b>50%</b></td>
+    </tr>
+    <tr>
+      <td align="right"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
+      <td align="left"><img src="https://dummyimage.com/50x12/00ff44/00ff44.png" /><img src="https://dummyimage.com/150x12/222222/222222.png" /></td>
+      <td align="center"><b>25%</b></td>
+    </tr>
+    <tr>
+      <td align="right"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></td>
+      <td align="left"><img src="https://dummyimage.com/30x12/00ff44/00ff44.png" /><img src="https://dummyimage.com/170x12/222222/222222.png" /></td>
+      <td align="center"><b>15%</b></td>
+    </tr>
+    <tr>
+      <td align="right"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></td>
+      <td align="left"><img src="https://dummyimage.com/30x12/00ff44/00ff44.png" /><img src="https://dummyimage.com/170x12/222222/222222.png" /></td>
+      <td align="center"><b>15%</b></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
