@@ -55,11 +55,12 @@
 <h3 align="center">🚀 Repositórios em Destaque</h3>
 
 <div align="center">
-  <a href="https://github.com/iarley-araujo/aximoz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarley-araujo&repo=aximoz&theme=tokyonight&hide_border=true&show_icons=true" />
+  <a href="https://github.com/iarley-araujo/gate-of-babylon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarley-araujo&repo=gate-of-babylon&theme=tokyonight&hide_border=true&show_icons=true" />
   </a>
-  <a href="https://github.com/iarley-araujo/portifolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarley-araujo&repo=portifolio&theme=tokyonight&hide_border=true&show_icons=true" />
+  
+  <a href="https://github.com/iarley-araujo/portf-lio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarley-araujo&repo=portf-lio&theme=tokyonight&hide_border=true&show_icons=true" />
   </a>
 </div>
 
