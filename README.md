@@ -41,21 +41,31 @@
 <h3 align="center">📊 Nível de Habilidades</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-70%25-777BB4?style=flat"><br>
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-70%25-F7DF1E?style=flat"><br>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-40%25-3776AB?style=flat"><br>
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-50%25-ED8B00?style=flat"><br>
-  
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-60%25-4479A1?style=flat">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iarley-araujo&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="center">🚀 Repositórios em Destaque</h3>
+
+<div align="center">
+  <a href="https://github.com/iarley-araujo/aximoz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarley-araujo&repo=aximoz&theme=tokyonight&hide_border=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/iarley-araujo/portifolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarley-araujo&repo=portifolio&theme=tokyonight&hide_border=true&show_icons=true" />
+  </a>
+</div>
 ---
 
 <h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
@@ -64,12 +74,6 @@
 </p>
 
 ---
-
-<h3 align="center">🚀 Repositórios em Destaque</h3>
-<p align="center">
-  <a href="https://github.com/iarley-araujo/aximoz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iarley-araujo&repo=aximoz&theme=tokyonight&hide_border=true" width="45%" /></a>
-  <a href="https://github.com/iarley-araujo/portifolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iarley-araujo&repo=portifolio&theme=tokyonight&hide_border=true" width="45%" /></a>
-</p>
 
 <h3 align="center">📫 Vamos conversar?</h3>
 <p align="center">
