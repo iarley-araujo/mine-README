@@ -26,10 +26,10 @@
     <td width="60%">
       <h3>💫 Sobre mim</h3>
       <ul>
-        <li>🔭 <b>Em desenvolvimento:</b> PFCI Saúde (portal educacional) e Aximoz Wallet (dashboard financeiro).</li>
-        <li>🔐 <b>Cyber Focus:</b> Explorando pentesting com Kali Linux e fortalecendo conhecimentos em defesa.</li>
+        <li>🔭 <b>Em desenvolvimento:</b> PFCI Saúde e Aximoz Wallet.</li>
+        <li>🔐 <b>Cyber Focus:</b> Pentesting, Kali Linux e Defesa Cibernética.</li>
         <li>💻 <b>Stack principal:</b> PHP, JavaScript, Python, Java, C# e Dart.</li>
-        <li>⚡ <b>Objetivo:</b> Transição para carreira em Cyber Security, aliando automação e desenvolvimento seguro.</li>
+        <li>⚡ <b>Objetivo:</b> Transição para carreira em Cyber Security.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -38,93 +38,17 @@
   </tr>
 </table>
 
- <h3 align="center">📊 Status e Conhecimentos</h3>
-
+<h3 align="center">📊 Nível de Habilidades</h3>
 
 <p align="center">
-
-  <i>Nível de proficiência nas tecnologias que utilizo:</i>
-
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/-70%25-777BB4?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/-70%25-F7DF1E?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-60%25-4479A1?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-50%25-ED8B00?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-25%25-3776AB?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/-15%25-239120?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/-15%25-0175C2?style=for-the-badge" />
 </p>
-
-
-<div align="center">
-
-  <table>
-
-    <tr>
-
-      <td align="center" width="150"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></td>
-
-      <td align="left" width="220">🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛</td>
-
-      <td align="right" width="50"><b>70%</b></td>
-
-    </tr>
-
-    <tr>
-
-      <td align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></td>
-
-      <td align="left">🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛</td>
-
-      <td align="right"><b>70%</b></td>
-
-    </tr>
-
-    <tr>
-
-      <td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></td>
-
-      <td align="left">🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛</td>
-
-      <td align="right"><b>60%</b></td>
-
-    </tr>
-
-    <tr>
-
-      <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></td>
-
-      <td align="left">🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛</td>
-
-      <td align="right"><b>50%</b></td>
-
-    </tr>
-
-    <tr>
-
-      <td align="center"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
-
-      <td align="left">🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛</td>
-
-      <td align="right"><b>25%</b></td>
-
-    </tr>
-
-    <tr>
-
-      <td align="center"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></td>
-
-      <td align="left">🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
-
-      <td align="right"><b>15%</b></td>
-
-    </tr>
-
-    <tr>
-
-      <td align="center"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></td>
-
-      <td align="left">🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
-
-      <td align="right"><b>15%</b></td>
-
-    </tr>
-
-  </table>
-
-</div> 
 
 ---
 
@@ -138,6 +62,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarley-araujo&repo=portifolio&theme=tokyonight&hide_border=true&show_icons=true" />
   </a>
 </div>
+
 ---
 
 <h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
